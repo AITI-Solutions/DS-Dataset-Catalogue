@@ -92,8 +92,9 @@ Brief description of the dataset, including:
 
 <br><br>
 
-## External Links
+## Related Links
 
+- specific experiment script (e.g. Experiment_1.ipynb)
 - Documentation:
 - Source Repository:
 - Dashboard:
