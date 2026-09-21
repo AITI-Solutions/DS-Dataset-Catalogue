@@ -1,14 +1,6 @@
-### Dataset Overview
+﻿### Dataset Overview
 
-# Dataset Name
-
-### Data Description
-
-Brief description of the dataset, including:
-- What the dataset contains
-- Business purpose
-- Primary use cases
-- Key entities or metrics included
+# MSK
 
 
 <br><br>
@@ -17,7 +9,7 @@ Brief description of the dataset, including:
 
 | Attribute | Value |
 |-----------|-------|
-| **Domain** | |
+| **Domain** | Health |
 | **Dataset Owner** ||
 | **Status** | |
 | **Version** ||
@@ -32,8 +24,8 @@ Brief description of the dataset, including:
 
 | Metric | Value |
 |--------|-------|
-| Total Files ||
-| Formats | |
+| Total Files | 6564 ( MSK-1 (1681) & MSK-2 (4883) ) |
+| Formats |  |
 | extension ||
 | Storage Size | |
 | Primary Key(s) | |
@@ -61,7 +53,7 @@ Brief description of the dataset, including:
 |-----------|-------|
 | **Cloud Provider** | |
 | **Platform** | |
-| **Storage Location** | |
+| **Storage Location** | https://github.com/AITI-Solutions/Skin-Cancer-Project/tree/main/Dataset/MSK |
 | **Storage Format** | |
 | **Region** | |
 | **Database ** | |
@@ -77,8 +69,8 @@ Brief description of the dataset, including:
 
 | Partition | Format | Description |
 |-----------|--------|-------------|
-| | | |
-| | | |
+| MSK-1 | | |
+| MSK-2| | |
 | | | |
 
 <br><br>
