@@ -1,14 +1,9 @@
-### Dataset Overview
+﻿### Dataset Overview
 
-# Dataset Name
+# Processed Dataset/Segmentation/level_01
 
 ### Data Description
 
-Brief description of the dataset, including:
-- What the dataset contains
-- Business purpose
-- Primary use cases
-- Key entities or metrics included
 
 
 <br><br>
@@ -17,8 +12,8 @@ Brief description of the dataset, including:
 
 | Attribute | Value |
 |-----------|-------|
-| **Domain** | |
-| **Dataset Owner** ||
+| **Domain** | HEL|
+| **Dataset Owner** |AITIS|
 | **Status** | |
 | **Version** ||
 | **Classification** | |
@@ -47,7 +42,7 @@ Brief description of the dataset, including:
 | Number of Columns | |
 | Number of Rows ||
 | Number of Observations ||
-| Total Records | |
+| Total Records | 2297 (output_CV2 (984) output_PIL(1313)) |
 | Data Stucture | |
 | Data Orientation | |
 | Partition Strategy | |
@@ -60,8 +55,8 @@ Brief description of the dataset, including:
 | Attribute | Value |
 |-----------|-------|
 | **Cloud Provider** | |
-| **Platform** | |
-| **Storage Location** | |
+| **Platform** | Github|
+| **Storage Location** | https://github.com/AITI-Solutions/Wound-Project/tree/main/Processed%20Dataset/Segmentation/level_01|
 | **Storage Format** | |
 | **Region** | |
 | **Database ** | |
@@ -77,8 +72,8 @@ Brief description of the dataset, including:
 
 | Partition | Format | Description |
 |-----------|--------|-------------|
-| | | |
-| | | |
+|output_CV2 | | |
+| output_PIL| | |
 | | | |
 
 <br><br>
